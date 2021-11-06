@@ -5,6 +5,14 @@
 **Definition**: *Offer safety* means that the user is guaranteed to either
 get what they wanted or get back a full refund of what they offered.
 
+<aside>
+
+[Offer Safety: Partitioning Risk in Smart Contracts](https://papers.agoric.com/offer-safety-codex-mtg/) is a 20 minute recorded presentation on the topic.
+TODO: add hero image
+
+See also [Offer Safety: Partitioning Risk in Smart Contracts](https://papers.agoric.com/offer-safety-partitioning-risk/) by Kate Sills, 09-Mar-2020
+</aside>
+
 For Zoe to enforce offer safety, the user must
 give Zoe a `proposal`. This is a description of both what they want and what
 they are offering, and when and how the user can exit the contract. Zoe uses
